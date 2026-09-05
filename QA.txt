@@ -1,0 +1,6 @@
+lines: 420
+empty_onTap: 0
+empty_onPressed: 0
+contains_arabic: True
+english_switch: True
+sections: 42

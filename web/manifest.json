@@ -1,0 +1,8 @@
+{
+  "name": "Drivo Medical Dashboard",
+  "short_name": "Drivo Medical",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F6F8FC",
+  "theme_color": "#075DFF"
+}
